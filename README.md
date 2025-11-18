@@ -42,7 +42,7 @@
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/md-arman-islam-shuvo/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="arman-islam" height="30" width="40" /></a>
-    <a href="https://discord.gg/arman_islam_shuvo" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="arman-islam-discord" height="30" width="40" /></a>
+    <a href="https://discord.gg/Wy5NjN2w" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="arman-islam-discord" height="30" width="40" /></a>
     
   </p>
 </div>
