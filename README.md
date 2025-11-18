@@ -18,7 +18,7 @@
   
   <br><br>
   
-  - 📫 Feel free to reach me out **[Email](mailto:armanislam988@gmail.com)**
+  - 📫 Feel free to reach me out **[Email](mailto:armanislam.ais@gmail.com)**
   
 </div>
 
