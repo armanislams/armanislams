@@ -10,11 +10,17 @@
 </div>
 
 ###
-<h1 align="center">Hi! 👋 I'm Arman Islam</h1>
+
 <div align="center">
-  - 📫 Feel free to reach me out **[Email](armanislam988@gmail.com)**
+  <h1 align="center">Hi! 👋 I'm Arman Islam</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN+stack+web+developer;MongoDB+ExpressJs+React+NextJs)](https://git.io/typing-svg)
+  
+  <br><br>
+  
+  - 📫 Feel free to reach me out **[Email](mailto:armanislam988@gmail.com)**
+  
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN+stack+web+developer;MongoDB+ExpressJs+React+NextJs)](https://git.io/typing-svg)
 
 ###
 
@@ -28,7 +34,7 @@
 
 ###
 
-<p align="left"> I hail from the vibrant country of Bangladesh. Currently, I'm embracing the exciting journey of work-life in Malaysia. <br><br>-✨ Right now, I'm diving into the world of web development, expanding my skills and knowledge to create amazing digital experiences.<br><br>- 🖥️ I’m currently working on **React.js, Next.js, React, ExpressJs** for frontend development.</p>
+<p align="left"> I from Bangladesh.I am currently living and working in Malaysia. <br><br>-✨ Right now, I'm diving into the world of web development, expanding my skills and knowledge to create amazing digital experiences.<br><br>- 🖥️ I’m currently working on **React.js, Next.js, React, ExpressJs** for frontend development.</p>
 
 ###
 <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
