@@ -1,3 +1,6 @@
+<div align="left">
+    <a href='https://ko-fi.com/A0A81OR730' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  </div>
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=armanislams.armanislams&"  />
 </div>
@@ -9,6 +12,7 @@
 
 <div>
   <h1 align="center">Hi! 👋 I'm Arman Islam</h1>
+  
 </div>
  
 ###
@@ -86,3 +90,4 @@
 </div>
 
 ###
+
