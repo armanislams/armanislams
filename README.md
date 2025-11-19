@@ -7,21 +7,25 @@
 ![Header](./github-header-banner.png)
 
 
-
-
+<div>
+  <h1 align="center">Hi! 👋 I'm Arman Islam</h1>
+</div>
+ 
 ###
 
 <div align="center">
-  <h1 align="center">Hi! 👋 I'm Arman Islam</h1>
+ 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN+stack+web+developer;MongoDB+ExpressJs+React+NextJs)](https://git.io/typing-svg)
-  
-  <br><br>
-  <div align="center">
+ <br><br>
+  <div>
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-  - 📫 Feel free to reach me out **[Email](mailto:armanislam.ais@gmail.com)**
+ 
   
+</div>
+<div>
+   
 </div>
 
 ###
@@ -36,7 +40,8 @@
 
 ###
 
-<p align="left"> I from Bangladesh.I am currently living and working in Malaysia. <br><br>-✨ Right now, I'm diving into the world of web development, expanding my skills and knowledge to create amazing digital experiences.<br><br>- 🖥️ I’m currently working on **React.js, Next.js, React, ExpressJs** for frontend development.</p>
+<p align="left"> I from Bangladesh.I am currently living and working in Malaysia. <br><br>-✨ Right now, I'm diving into the world of web development, expanding my skills and knowledge to create amazing digital experiences.<br><br>- 🖥️ I’m currently working on **React.js, Next.js, React, ExpressJs** for frontend development.<br><br>
+  - 📫 Feel free to reach me out on <a href="mailto:armanislam.ais@gmail.com">Email</a> </p>
 
 ###
 <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
