@@ -4,10 +4,10 @@
 
 ###
 
+![Header](./your-header-image-name.png)
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
+
 
 ###
 
@@ -17,7 +17,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN+stack+web+developer;MongoDB+ExpressJs+React+NextJs)](https://git.io/typing-svg)
   
   <br><br>
-  
+  <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
   - 📫 Feel free to reach me out **[Email](mailto:armanislam.ais@gmail.com)**
   
 </div>
