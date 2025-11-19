@@ -45,7 +45,7 @@
 ###
 
 <p align="left"> I from Bangladesh.I am currently living and working in Malaysia. <br><br>-✨ Right now, I'm diving into the world of web development, expanding my skills and knowledge to create amazing digital experiences.<br><br>- 🖥️ I’m currently working on **React.js, Next.js, React, ExpressJs** for frontend development.<br><br>
-  - 📫 Feel free to reach me out on <a href="mailto:armanislam.ais@gmail.com">Email</a> </p>
+  - 📫 Feel free to reach me out on <a href="mailto:armanislam988@gmail.com">Email</a> </p>
 
 ###
 <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
