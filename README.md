@@ -88,7 +88,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=armanislams&show_icons=true&locale=en" alt="armanislams" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanislams&show_icons=true&locale=en&layout=compact" alt="armanislams" />
 </div> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=armanislams&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=armanislams" alt="GitHub Streak" /></a>
+<a href="https://armanislam.me"><img src="https://streak-stats.demolab.com?user=armanislams" alt="GitHub Streak" /></a>
 ###
 
