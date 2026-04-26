@@ -107,7 +107,7 @@
     <td width="55%" valign="top">
       <h3>Scholarship Management System</h3>
       <p>A robust platform designed to streamline scholarship applications. Users can browse, save, and track their applications through an intuitive dashboard.</p>
-      <p><b>🛠️ Tech Stack:</b> Next.js, Firebase, Tailwind CSS, Node.js</p>
+      <p><b>🛠️ Tech Stack:</b> Reactjs, Firebase, Tailwind CSS, Node.js, MongoDB</p>
       <p>
         <a href="https://github.com/armanislams/scholar-stream-client" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github" alt="GitHub" /></a>
         <a href="https://scholar-stream-791d1.web.app/" target="_blank"><img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=flat-square&logo=vercel" alt="Live Demo" /></a>
