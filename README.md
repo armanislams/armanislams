@@ -88,6 +88,20 @@
 <table width="100%">
   <tr>
     <td width="45%">
+      <img src="./mockea1.png" alt="Mockea" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    </td>
+    <td width="55%" valign="top">
+      <h3>MOCKEA - A IELTS MOCK TEST PLATFROM</h3>
+      <p>MOCKEA is a comprehensive, full-stack IELTS preparation platform built with the MERN stack. It simulates actual exam conditions through interactive practice labs, full-length mock tests, and built-in anti-cheat mechanics. Engineered for high performance with dual-engine Redis caching and secure cloud uploads, MOCKEA also features an integrated AI tutor powered by the Gemini API to provide automated grading and detailed performance analytics for all four IELTS modules.</p>
+      <p><b>🛠️ Tech Stack:</b> MongoDB, Express.js, React, Node.js, Howler.js, Redis</p>
+      <p>
+        <a href="https://github.com/armanislams" target="_blank"><img src="https://img.shields.io/badge/GitHub-View%20Code-blue?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="https://mockea.web.app" target="_blank"><img src="https://img.shields.io/badge/Demo-Live%20Preview-success?style=flat-square&logo=vercel" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
       <img src="./dashchat.jpeg" alt="DashChat" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </td>
     <td width="55%" valign="top">
